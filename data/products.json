@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "new name",
+    "price": 30
+  },
+  {
+    "id": "3",
+    "name": "Ecran",
+    "price": 20
+  },
+  {
+    "id": 1773486789048,
+    "name": "Product C",
+    "price": 30
+  },
+  {
+    "id": 1773486870146,
+    "name": "Product D",
+    "price": 30
+  }
+]
